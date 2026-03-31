@@ -1,6 +1,3 @@
-a
-a
-a / e
 ab
 aba
 abacı
@@ -75372,7 +75369,6 @@ yüzyıl
 yüzyıllarca
 yüzyıllık
 yüz yüze
-z
 zaaf
 zabıt
 zabıta
